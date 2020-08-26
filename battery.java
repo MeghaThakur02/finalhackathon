@@ -18,7 +18,7 @@ public class battery {
 			String percentage="";
 			while((ln=in.readLine())!=null)
 			{
-				//System.out.println(line);
+				
 				
 				if(ln.contains("Foreground activities:"))
 				{
